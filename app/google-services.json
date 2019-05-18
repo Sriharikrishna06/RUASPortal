@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "391203124371",
+    "firebase_url": "https://ruasportal.firebaseio.com",
+    "project_id": "ruasportal",
+    "storage_bucket": "ruasportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391203124371:android:09b0d4481f90f98b",
+        "android_client_info": {
+          "package_name": "com.srihari.ruasportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391203124371-udgfuiu1einuovst4jmlr2f7rc5rc1nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srihari.ruasportal",
+            "certificate_hash": "6ff2cee6fb6cecbc4ba50d98eddd7ab2492bfc1e"
+          }
+        },
+        {
+          "client_id": "391203124371-140mlonlumvukq12t5e63mgeekju20ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUzOocCBDI_m0wo5jl8df4SgymMTpHm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391203124371-140mlonlumvukq12t5e63mgeekju20ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
